@@ -1,6 +1,3 @@
----
-tags: UCSD CSE11 SS1-2022, PA1
----
 <!-- HackMD link: https://hackmd.io/_ZP0PE7ARDuwjvAJZCEkvA -->
 # CSE 11 SS1-2022 PA1 - Covid Transmission
 **Due date: Tuesday, July 5 @ 11:59PM PST**
